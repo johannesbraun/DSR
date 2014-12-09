@@ -1,1 +1,1 @@
-Moin
+This is a prototype example for Johannes' DSR project http://jobraun.tumblr.com/ to demonstrate that it is possible to create a candidate list of music recommendations that isn’t horrible with current Soundcloud API functionality 
